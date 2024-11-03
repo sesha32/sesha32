@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sesha satya sai</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sesha32" alt="sesha32" /></a> </p>
-
 - 🔭 I’m currently working on [StreamSmart](https://github.com/sesha32/StreamSmart)
 
 - 🌱 I’m currently learning **Linux, Flask**
