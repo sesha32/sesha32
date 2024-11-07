@@ -1,3 +1,4 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://th.bing.com/th/id/OIP.yOZSqutQj9kWd0Yvytf_sgHaC0?w=299&h=133&c=7&r=0&o=5&dpr=1.3&pid=1.7))]
 <h1 align="center">Hi 👋, I'm Sesha satya sai</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
