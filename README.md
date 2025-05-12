@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/puvvalasesha" target="blank"><img src="https://img.shields.io/twitter/follow/puvvalasesha?logo=twitter&style=for-the-badge" alt="puvvalasesha" /></a> </p>
 
-- 🔭 I’m currently working on [StreamSmart](https://github.com/sesha32/StreamSmart)
+- 🔭 I’m currently working on [SpeedX](https://github.com/sesha32/SpeedX)
 
 - 🌱 I’m currently learning **Linux, Flask**
 
